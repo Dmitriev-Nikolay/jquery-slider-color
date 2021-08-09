@@ -125,13 +125,28 @@ body {
     background: #fe0100;
 }
 
+#red .ui-state-active,
+.ui-state-hover {
+    background: #fe0100;
+}
+
 #green .ui-slider-range,
 .ui-slider-handle {
     background: #01fe00;
 }
 
+#green .ui-state-active,
+.ui-state-hover {
+    background: #01fe00;
+}
+
 #blue .ui-slider-range,
 .ui-slider-handle {
+    background: #0001fb;
+}
+
+#blue .ui-state-active,
+.ui-state-hover {
     background: #0001fb;
 }
 
